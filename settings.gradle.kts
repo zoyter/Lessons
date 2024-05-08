@@ -23,3 +23,4 @@ rootProject.name = "Lessons"
 include(":app")
 include(":contacts")
 include(":quiz")
+include(":criminalintent")
