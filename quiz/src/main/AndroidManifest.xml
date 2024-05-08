@@ -17,6 +17,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!--    Читы -->
+        <activity
+            android:name=".CheatActivity"
+            android:exported="false"
+            android:label="@string/title_activity_cheat"/>
     </application>
 
 </manifest>
