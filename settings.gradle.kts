@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Lessons"
 include(":app")
 include(":contacts")
+include(":quiz")
